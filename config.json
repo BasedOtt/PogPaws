@@ -1,12 +1,12 @@
 {
-  "L1": ["SHIFT","A"],
-  "L2": ["SHIFT","B"],
-  "L3": ["SHIFT","C"],
-  "L4": ["SHIFT","D"],
-  "L5": ["SHIFT","E"],
-  "R1": ["SHIFT","F"],
-  "R2": ["SHIFT","G"],
-  "R3": ["SHIFT","H"],
-  "R4": ["SHIFT","I"],
-  "R5": ["SHIFT","J"]
+  "L1": ["a"],
+  "L2": ["b"],
+  "L3": ["c"],
+  "L4": ["D"],
+  "L5": ["SHIFT","e"],
+  "R1": ["LEFT_ARROW"],
+  "R2": ["TWO"],
+  "R3": ["THREE"],
+  "R4": ["RIGHT_ARROW"],
+  "R5": ["SHIFT","FIVE"]
 }
